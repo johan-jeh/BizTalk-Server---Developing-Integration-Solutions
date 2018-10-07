@@ -3,7 +3,7 @@ Before we can start, there is a couple of steps we need to complete. First you'l
 
 ## Clone repo
 * Create a folder on your virtual machine, eg C:\GIT
-* Open a command prompt and type and navigate to the folder:
+* Open a command prompt and navigate to the folder:
 
 **CD C:\GIT**
 * Clone the repo to your local git folder by typing:
