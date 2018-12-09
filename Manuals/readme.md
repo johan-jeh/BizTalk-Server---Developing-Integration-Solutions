@@ -11,4 +11,4 @@ Before we can start, there is a couple of steps we need to complete. First you'l
 **git clone https://github.com/johan-jeh/BizTalk-Server---Developing-Integration-Solutions.git**
 
 ### Copy files
-After you've cloned the repo, double-click the *setup.bat* in the roor folder (C:\GIT\BizTalk-Server---Developing-Integration-Solutions)
+After you've cloned the repo, double-click the *setup.bat* in the root folder (C:\GIT\BizTalk-Server---Developing-Integration-Solutions)
